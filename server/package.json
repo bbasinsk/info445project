@@ -1,0 +1,21 @@
+{
+  "name": "retail_api",
+  "version": "0.0.0",
+  "description": "Store Database API",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.14.0",
+    "mssql": "^4.1.0",
+    "nodemon": "^1.17.4",
+    "tedious": "2.2.4"
+  },
+  "scripts": {
+    "start": "nodemon sqlserver.js"
+  },
+  "author": {
+    "name": "Ben Basinski",
+    "email": "bbasinsk@uw.edu"
+  },
+  "license": "MIT"
+}
