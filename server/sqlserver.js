@@ -11,7 +11,7 @@ const config = {
     user: 'INFO445',
     password: 'RedSquar3',
     server: 'is-hay04.ischool.uw.edu',
-    database: 'retailfinal',
+    database: 'sparkdog',
     options: {
         encrypt: true // Use this if you're on Windows Azure
     }
